@@ -1,0 +1,16 @@
+body {
+    background-color: cornsilk;
+}
+
+#fortune{
+    background-color:black;
+    color:whitesmoke;
+    width: 200px;
+    height:140px;
+    border-radius:100px;
+    margin: 30px;
+    padding-top: 60px;
+    vertical-align: center;
+    text-align: center;
+    font-size: 30px;
+}
